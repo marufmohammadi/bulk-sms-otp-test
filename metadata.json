@@ -1,0 +1,6 @@
+{
+  "name": "DhakaReserve — SMS Booking & Reservation Platform",
+  "description": "Professional appointment and table booking platform with Bangladesh mobile OTP authentication and real-time BulkSMSBD SMS notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
